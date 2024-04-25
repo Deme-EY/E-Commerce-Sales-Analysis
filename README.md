@@ -7,7 +7,7 @@ This is a power Bi project on sales analysis of **Superstore**. The project is t
 
 *Disclaimer*: _All datasets and reports do not represent any organizations, institution and country, but just a dummy dataset to demonstrate capabilities of power Bi_.
 
-## Problem Statemnt 
+## Problem Statement 
 In this superstore analysis portfolio project, we gain insights into its sales data to optimize its operations and improve profitability. During my analysis I am particularly interested in understanding the following 
 
 ## Data Source
